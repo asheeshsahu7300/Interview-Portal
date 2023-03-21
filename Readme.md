@@ -11,25 +11,3 @@
 
 3. An interview edit page where the admin can edit the created interview with the same validations as on the creation page. -- PUT Request
 # Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview_Portal
-# Interview_Portal
-# Interview_Portal
-# Interview-Schedule-App
-# Interview-Schedule-App
-# Interview-Schedule-App
-# Interview-Scheduler
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview-Schedule
-# Interview-Schedule
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
-# Interview-Portal
